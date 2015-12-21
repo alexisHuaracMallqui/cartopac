@@ -1,0 +1,10 @@
+c:\users\alexishuarac\documents\visual studio 2012\Projects\sistema\sistema\bin\Debug\sistema.exe.config
+c:\users\alexishuarac\documents\visual studio 2012\Projects\sistema\sistema\bin\Debug\sistema.exe
+c:\users\alexishuarac\documents\visual studio 2012\Projects\sistema\sistema\bin\Debug\sistema.pdb
+c:\users\alexishuarac\documents\visual studio 2012\Projects\sistema\sistema\obj\Debug\sistema.csprojResolveAssemblyReference.cache
+c:\users\alexishuarac\documents\visual studio 2012\Projects\sistema\sistema\obj\Debug\sistema.Form1.resources
+c:\users\alexishuarac\documents\visual studio 2012\Projects\sistema\sistema\obj\Debug\sistema.Properties.Resources.resources
+c:\users\alexishuarac\documents\visual studio 2012\Projects\sistema\sistema\obj\Debug\sistema.vista.registro.resources
+c:\users\alexishuarac\documents\visual studio 2012\Projects\sistema\sistema\obj\Debug\sistema.csproj.GenerateResource.Cache
+c:\users\alexishuarac\documents\visual studio 2012\Projects\sistema\sistema\obj\Debug\sistema.exe
+c:\users\alexishuarac\documents\visual studio 2012\Projects\sistema\sistema\obj\Debug\sistema.pdb
